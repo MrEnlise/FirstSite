@@ -1,0 +1,22 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 26.02.2017, 11:08:32
+    Author     : Enlise
+*/
+.Container-Top {
+  padding: 0;
+  border: 1px solid orange;
+  width: 100%; }
+
+.Container {
+  padding: 0;
+  margin: 0;
+  border: 1px solid orange;
+  float: right;
+  width: 33.1%; }
+
+/*# sourceMappingURL=main.css.map */
